@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Arduino IDE
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LDROBOT_D500_ESP32	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+isRunning	KEYWORD2
+getDataSize	KEYWORD2
+getAngle	KEYWORD2
+getDistanceByIndex	KEYWORD2
+copyData	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DATA_CAPACITY	LITERAL1
+MAX_RANGING_FREQUENCY_HZ	LITERAL1
+MIN_SCANNING_FREQUENCY_HZ	LITERAL1
+MAX_POINTS_PER_SCAN	LITERAL1
